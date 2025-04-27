@@ -1,0 +1,14 @@
+C:\Users\Дарья\source\repos\NotesApp\obj\Debug\NotesApp.csproj.AssemblyReference.cache
+C:\Users\Дарья\source\repos\NotesApp\obj\Debug\MainWindow.baml
+C:\Users\Дарья\source\repos\NotesApp\obj\Debug\MainWindow.g.cs
+C:\Users\Дарья\source\repos\NotesApp\obj\Debug\App.g.cs
+C:\Users\Дарья\source\repos\NotesApp\obj\Debug\NotesApp_MarkupCompile.cache
+C:\Users\Дарья\source\repos\NotesApp\obj\Debug\NotesApp.g.resources
+C:\Users\Дарья\source\repos\NotesApp\obj\Debug\NotesApp.Properties.Resources.resources
+C:\Users\Дарья\source\repos\NotesApp\obj\Debug\NotesApp.csproj.GenerateResource.cache
+C:\Users\Дарья\source\repos\NotesApp\obj\Debug\NotesApp.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\NotesApp\bin\Debug\NotesApp.exe.config
+C:\Users\Дарья\source\repos\NotesApp\bin\Debug\NotesApp.exe
+C:\Users\Дарья\source\repos\NotesApp\bin\Debug\NotesApp.pdb
+C:\Users\Дарья\source\repos\NotesApp\obj\Debug\NotesApp.exe
+C:\Users\Дарья\source\repos\NotesApp\obj\Debug\NotesApp.pdb

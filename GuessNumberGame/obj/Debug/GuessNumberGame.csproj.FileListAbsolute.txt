@@ -1,0 +1,14 @@
+C:\Users\Дарья\source\repos\GuessNumberGame\bin\Debug\GuessNumberGame.exe.config
+C:\Users\Дарья\source\repos\GuessNumberGame\bin\Debug\GuessNumberGame.exe
+C:\Users\Дарья\source\repos\GuessNumberGame\bin\Debug\GuessNumberGame.pdb
+C:\Users\Дарья\source\repos\GuessNumberGame\obj\Debug\GuessNumberGame.csproj.AssemblyReference.cache
+C:\Users\Дарья\source\repos\GuessNumberGame\obj\Debug\MainWindow.baml
+C:\Users\Дарья\source\repos\GuessNumberGame\obj\Debug\MainWindow.g.cs
+C:\Users\Дарья\source\repos\GuessNumberGame\obj\Debug\App.g.cs
+C:\Users\Дарья\source\repos\GuessNumberGame\obj\Debug\GuessNumberGame_MarkupCompile.cache
+C:\Users\Дарья\source\repos\GuessNumberGame\obj\Debug\GuessNumberGame.g.resources
+C:\Users\Дарья\source\repos\GuessNumberGame\obj\Debug\GuessNumberGame.Properties.Resources.resources
+C:\Users\Дарья\source\repos\GuessNumberGame\obj\Debug\GuessNumberGame.csproj.GenerateResource.cache
+C:\Users\Дарья\source\repos\GuessNumberGame\obj\Debug\GuessNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\GuessNumberGame\obj\Debug\GuessNumberGame.exe
+C:\Users\Дарья\source\repos\GuessNumberGame\obj\Debug\GuessNumberGame.pdb

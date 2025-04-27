@@ -1,0 +1,33 @@
+﻿<Window x:Class="GuessNumberGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Угадай число" Height="400" Width="300">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Подсказка -->
+        <TextBlock Text="{Binding HintMessage}" FontSize="16" Margin="0,10" TextAlignment="Center" />
+
+        <!-- Ввод пользователя -->
+        <TextBox x:Name="GuessTextBox" Grid.Row="1" Margin="0,10" Height="30" FontSize="16" />
+
+        <!-- Кнопка "Проверить" -->
+        <Button Content="Проверить" Grid.Row="2" Margin="0,10" Height="30" FontSize="16" Click="CheckButton_Click" />
+
+        <!-- Сообщение о результате -->
+        <TextBlock Text="{Binding ResultMessage}" Grid.Row="3" FontSize="14" Foreground="Blue" TextAlignment="Center" TextWrapping="Wrap" Margin="0,10"/>
+
+        <!-- Количество попыток + кнопка перезапуска -->
+        <StackPanel Grid.Row="4" Orientation="Vertical" HorizontalAlignment="Center">
+            <TextBlock Text="Попыток: " FontSize="14" />
+            <TextBlock Text="{Binding Attempts}" FontSize="14" />
+            <Button Content="Новая игра" Margin="0,10" Width="100" Click="RestartButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

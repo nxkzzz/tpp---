@@ -1,0 +1,14 @@
+C:\Users\Дарья\source\repos\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Дарья\source\repos\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Дарья\source\repos\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Дарья\source\repos\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\Дарья\source\repos\TextEditor\obj\Debug\MainWindow.baml
+C:\Users\Дарья\source\repos\TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Дарья\source\repos\TextEditor\obj\Debug\App.g.cs
+C:\Users\Дарья\source\repos\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Users\Дарья\source\repos\TextEditor\obj\Debug\TextEditor.g.resources
+C:\Users\Дарья\source\repos\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Дарья\source\repos\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Дарья\source\repos\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Дарья\source\repos\TextEditor\obj\Debug\TextEditor.pdb

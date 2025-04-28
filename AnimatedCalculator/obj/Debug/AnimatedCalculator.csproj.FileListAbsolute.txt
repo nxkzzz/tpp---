@@ -1,0 +1,14 @@
+C:\Users\Дарья\source\repos\AnimatedCalculator\bin\Debug\AnimatedCalculator.exe.config
+C:\Users\Дарья\source\repos\AnimatedCalculator\bin\Debug\AnimatedCalculator.exe
+C:\Users\Дарья\source\repos\AnimatedCalculator\bin\Debug\AnimatedCalculator.pdb
+C:\Users\Дарья\source\repos\AnimatedCalculator\obj\Debug\AnimatedCalculator.csproj.AssemblyReference.cache
+C:\Users\Дарья\source\repos\AnimatedCalculator\obj\Debug\MainWindow.baml
+C:\Users\Дарья\source\repos\AnimatedCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Дарья\source\repos\AnimatedCalculator\obj\Debug\App.g.cs
+C:\Users\Дарья\source\repos\AnimatedCalculator\obj\Debug\AnimatedCalculator_MarkupCompile.cache
+C:\Users\Дарья\source\repos\AnimatedCalculator\obj\Debug\AnimatedCalculator.g.resources
+C:\Users\Дарья\source\repos\AnimatedCalculator\obj\Debug\AnimatedCalculator.Properties.Resources.resources
+C:\Users\Дарья\source\repos\AnimatedCalculator\obj\Debug\AnimatedCalculator.csproj.GenerateResource.cache
+C:\Users\Дарья\source\repos\AnimatedCalculator\obj\Debug\AnimatedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\AnimatedCalculator\obj\Debug\AnimatedCalculator.exe
+C:\Users\Дарья\source\repos\AnimatedCalculator\obj\Debug\AnimatedCalculator.pdb
